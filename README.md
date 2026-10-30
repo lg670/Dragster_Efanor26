@@ -19,10 +19,8 @@ O repositório está estruturado com os seguintes elementos essenciais para o de
 * *Códigos de teste de hardware individual:* Scripts isolados para validação prévia de cada componente.
 * *Código Robô:* O firmware integrado e final que comanda o dragster durante as mangas de competição.
 * *Código Pista:* Software de controlo da árvore de natal / luzes de partida do recinto de testes.
-* *Hardware Robô:* Ficheiro `.pptx` dos componentes do robô.
-* *Hardware da pista:* Especificações e documentação técnica relativa aos elementos físicos da pista de testes em formato `.pptx`.
-* *Ligações Robô:* Documentação detalhada em formato `.docx` com o mapeamento de pinos e ligações dos componentes do robô.
-* *Ligações Pista:* Documentação detalhada em formato `.docx` com o mapeamento de pinos e ligações dos componentes da pista.
+* *Hardware:* Ficheiro `.pptx` dos componentes do robô e da pista de testes.
+* *Ligações Robô:* Documentação detalhada em formato `.docx` com o mapeamento de pinos e ligações dos componentes do robô e da pista.
 * *Ficheiros do chassi/PCB:* Ficheiros de projeto, esquemáticos e Gerber para o fabrico da PCB.
 * *Desenho da pista:* Plantas, dimensões e geometria oficial do percurso de dragster.
 
